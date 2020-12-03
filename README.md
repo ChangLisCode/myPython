@@ -1,6 +1,6 @@
 ### Python Application Practice
-> *personal practice code
-> *personal explore experience
+> * personal practice code
+> * personal explore experience
 
 ### Part one - code
 ##### 01- [E-mail auto-send](https://github.com/yoyoleo/Python-mail-auto-send/tree/yoyoleo-patch-1)
