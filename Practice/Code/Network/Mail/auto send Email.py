@@ -95,3 +95,4 @@ for r in range(2, 6):
         email = sheet.cell(row=r, column=2).value # 获得email作为键值
         mailList2[name] = email # 添加到字典
 print(mailList2)
+
