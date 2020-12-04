@@ -1,15 +1,16 @@
 ## My Road of Python
 ### Part one - Practice Code
-''' Code repository which is practiced by me'''
+> Code repository which is practiced by me
 #### [01 - Network](./Practice/Code/Network)
-* Mail Application
+    * 1. Mail Application
+    * 2. Auto send E-mail
 #### [02 - test](./Network/)
 
-* 01 - Auto send E-mail
+
 
 
 ### Part two - My Code
-* Code repository which is developped by me
+> Code repository which is developped by me
 #### 01 - [Crawler](./My%20Code/Crawler)
-*  Jobbank position download
-*  test
+    * 1. Jobbank position download
+    * 2. test
