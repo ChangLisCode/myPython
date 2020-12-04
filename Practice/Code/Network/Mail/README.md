@@ -1,2 +1,2 @@
 #### MENU
-* 01 - [Auto send Email](./Mail%20auto%20send.py)
+* 01 - [Auto send Email](./auto%20send%20Email.py)
