@@ -1,2 +1,2 @@
 #### MENU
-* -1 [Mail configration](./sourcecode)
+* -1 [Mail configration](./Mail/SourceCode)
