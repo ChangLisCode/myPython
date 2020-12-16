@@ -1,15 +1,15 @@
 '''
-Python Application Practice
+Python Application - Crawler
 
 Jobbank.com is one job platform in Canada. 
 Crawler analysis and practice aim to optimizine job hunting efficency.
 Finished code, run test pass.
 
 Note:
-* error reason: internet speed may cause error
+* error warning: internet speed may cause error
 * troubleshooting: slow program speed
-Source Code
 '''
+#Source Code
 
 import requests, gevent, openpyxl, re, time             # 页面请求，excel控制，正则表达式解析positioncode，控制时间 
 from bs4 import BeautifulSoup                           # 解析网页源码
