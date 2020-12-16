@@ -1,9 +1,9 @@
 '''
 Python Application Practice
 
-Jobbank.com is one job adervertisement website in Canada. 
+Jobbank.com is one job platform in Canada. 
 Crawler analysis and practice aim to optimizine job hunting efficency.
-finished code, run test pass.
+Finished code, run test pass.
 
 Note:
 * error reason: internet speed may cause error
