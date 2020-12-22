@@ -54,8 +54,15 @@
 > 该教程也是适合复习、总结，知识扩展。
 > 该教程的制作者有其它内容的学习课程，可自行检索。
 
-##### 02 Others
-> To be continued
+##### 02 [计算机科学速成课 Computer Science - Crash Course]
+> 科普节目，概括计算机科学最基础的知识背景和知识图谱。大学有接受过类似课程的同学，可以跳着看。第40集等概括和展望的内容引人思考。
+
+资源平台：
+- B站 [Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th?p=40)
+- 网易公开课（缺第40集）
+- YouTube - Crash Course Computer Science (仅英文字幕)
+
+
 
 ### 三、Web教程类
 > Web 教程是我推荐的学习方式，但合格的也不多，需要综合许多课程来共同完成学习
